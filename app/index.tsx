@@ -1,12 +1,9 @@
-import React from 'react';
-import { Text, View } from 'react-native';
+import { Text, View } from "react-native";
 
-const index = () => {
+export default function Index() {
   return (
     <View className = "flex-1 justify-center items-center">
       <Text className="text-4xl text-light-200">Welcome!</Text>
     </View>
-  )
+  );
 }
-
-export default index;
