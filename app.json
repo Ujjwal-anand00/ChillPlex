@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Movies-App",
-    "slug": "Movies-App",
+    "name": "ChillPlex",
+    "slug": "ChillPlex",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/logo.png",
-    "scheme": "moviesapp",
+    "scheme": "chillplex",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
