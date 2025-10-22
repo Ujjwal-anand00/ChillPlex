@@ -3,7 +3,7 @@ import { Text, View } from 'react-native';
 
 const Saved = () => {
   return (
-    <View>
+    <View className = "flex-1 justify-center items-center">
       <Text>Saved</Text>
     </View>
   )
